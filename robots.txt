@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nargizaa635-a11y.github.io/Kitobzor-web/sitemap.xml
